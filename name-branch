@@ -1,0 +1,21 @@
+# #!/bin/sh
+# #
+# # Automatically adds branch name and branch description to every commit message.
+# #
+COMMIT_EDITMSG=$1
+addBranchName() {
+  numRegex='[0-9]'
+  NAME=$(git branch | grep '*' | sed 's/* [Ff]eature[/]//' | sed 's/[^0-9]*//g') 
+  echo "name is: $NAME"
+  DESCRIPTION=$(git config branch."$NAME".description)
+  echo "[$NAME] $(cat $COMMIT_EDITMSG)" > $COMMIT_EDITMSG
+  if [ -n "$DESCRIPTION" ] 
+  then
+     echo "" >> $COMMIT_EDITMSG
+     echo $DESCRIPTION >> $COMMIT_EDITMSG
+  fi 
+}
+MERGE=$(cat $COMMIT_EDITMSG|grep -i 'merge'|wc -l)
+if [ $MERGE -eq 0 ] ; then
+  addBranchName
+fi
