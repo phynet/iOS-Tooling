@@ -1,17 +1,15 @@
 # iOS Tooling and Workflows
 The purpose of this repo is to share knowledge about the tooling that you usually use while developing iOS applications. Those can vary from scripts, to apps, workflows, to any other form of tool that you find helpful to share with the community.
 
-My personal ones are on phynet'sTools file but I will share here some of the pictures and videos: 
-
 
 ## Xcode Install
 
-- Xcversion
-- Xcodes (GUI) 
+- [XCversion](https://github.com/xcpretty/xcode-install)
+- [Xcodes (GUI)](https://github.com/RobotsAndPencils/xcodes) 
 
 ## Proxy 
 
-- Proxyman
+- [Proxyman](https://proxyman.io/)
 
 
 ## Deeplink and Universal link shortcut 
@@ -26,5 +24,11 @@ My personal ones are on phynet'sTools file but I will share here some of the pic
 
 ## Simulator 
 
-- SimGienie 
+- [SimGienie](https://simgenie.app/) 
+
+## UI
+
+- [Sherlock](https://sherlock.inspiredcode.io/)
+- [Reveal App](https://revealapp.com/) 
+
 
