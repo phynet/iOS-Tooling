@@ -18,7 +18,7 @@ The purpose of this repo is to share knowledge about the tooling that you usuall
 
 ## Git Hook 
 
-- Pre commit Swift Format 
+- [Swift Format](https://github.com/phynet/iOS-Tooling/blob/main/post-commit)
 - Post commit Swift Lint
 
 
