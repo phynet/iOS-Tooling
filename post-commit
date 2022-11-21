@@ -1,0 +1,12 @@
+.swift-format/swift-format -v
+echo "Swift Format starting"
+.swift-format/swift-format --version 1>/dev/null 2>&1
+if [ $? -eq 0 ]
+then
+    git diff --diff-filter=d --staged --name-only | grep -e '\(.*\).swift$' | while read line; do
+        echo "${line}"
+        .swift-format/swift-format -i "${line}" --configuration ./swift-format.json;
+        git add "$line";
+    done
+fi
+echo "Swift Format finished"
