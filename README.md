@@ -20,6 +20,7 @@ The purpose of this repo is to share knowledge about the tooling that you usuall
 
 - [Swift Format](https://github.com/phynet/iOS-Tooling/blob/main/post-commit)
 - Post commit Swift Lint
+- [Name branch hook](https://github.com/phynet/iOS-Tooling/blob/main/name-branch-hook)
 
 
 ## Simulator 
