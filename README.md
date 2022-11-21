@@ -16,6 +16,11 @@ The purpose of this repo is to share knowledge about the tooling that you usuall
 
 - [Automator script](https://github.com/phynet/iOS-Tooling/blob/main/open%20in%20simulator.zip)
 
+The script let's you open a DL or UL using a string text with a keyboard shortcut. Just highligth them as if you were to copy or paste it and use the keyboard shortcut that you setup before.
+The example app is from just eat, thanks to them for open source an app that has deeplinks: 
+
+<img width="422" alt="screen" src="https://user-images.githubusercontent.com/724536/203151489-34c6c22e-79e1-4d65-8c90-ca113ab74bd2.png">
+
 ## Git Hook 
 
 - [Swift Format](https://github.com/phynet/iOS-Tooling/blob/main/post-commit)
