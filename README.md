@@ -24,7 +24,6 @@ The example app is from just eat, thanks to them for open source an app that has
 ## Git Hook 
 
 - [Swift Format](https://github.com/phynet/iOS-Tooling/blob/main/post-commit)
-- Post commit Swift Lint
 - [Name branch hook](https://github.com/phynet/iOS-Tooling/blob/main/name-branch-hook)
 
 
