@@ -25,7 +25,7 @@ The purpose of this repo is to share knowledge about the tooling that you usuall
 
 ## Simulator 
 
-- [SimGienie](https://simgenie.app/) 
+- [SimGenie](https://simgenie.app/) 
 
 ## UI
 
