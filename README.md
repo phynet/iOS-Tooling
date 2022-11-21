@@ -14,7 +14,7 @@ The purpose of this repo is to share knowledge about the tooling that you usuall
 
 ## Deeplink and Universal link shortcut 
 
-- Automator script
+- [Automator script](https://github.com/phynet/iOS-Tooling/blob/main/open%20in%20simulator.zip)
 
 ## Git Hook 
 
