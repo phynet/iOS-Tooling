@@ -38,4 +38,9 @@ The example app is from just eat, thanks to them for open source an app that has
 - [Sherlock](https://sherlock.inspiredcode.io/)
 - [Reveal App](https://revealapp.com/) 
 
+## Shortcuts 🎺
+
+- [Delete derived data with a default name](https://github.com/phynet/iOS-Tooling/blob/main/shortcuts/Derived_Data_default_project.shortcut) (mine, just remove the name and add your app's name)
+- [Delete derived data completely](https://github.com/phynet/iOS-Tooling/blob/main/shortcuts/Derived_Data_default_project.shortcut)
+
 
