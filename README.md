@@ -21,6 +21,12 @@ You are welcomed to add tools, scripts or any other app that you use and is wort
 The script let's you open a DL or UL using a string text with a keyboard shortcut. Just highligth them as if you were to copy or paste it and use the keyboard shortcut that you setup before.
 The example app is from just eat, thanks to them for open source an app that has deeplinks: 
 
+*Setup Keyboard shortcut*
+
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/724536/205639993-afba44bd-8d5e-46a7-a7e0-b62e0630f5d8.png">
+
+*Use shortcut*
+
 <img width="422" alt="screen" src="https://user-images.githubusercontent.com/724536/203151489-34c6c22e-79e1-4d65-8c90-ca113ab74bd2.png">
 
 ## Git Hook 🚗
