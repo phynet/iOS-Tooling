@@ -49,4 +49,23 @@ The example app is from just eat, thanks to them for open source an app that has
 - [Delete derived data with a default name](https://github.com/phynet/iOS-Tooling/blob/main/shortcuts/Derived_Data_default_project.shortcut) (mine, just remove the name and add your app's name)
 - [Delete derived data completely](https://github.com/phynet/iOS-Tooling/blob/main/shortcuts/Derived_Data_default_project.shortcut)
 
+## Command Line Tools 🛠
 
+### Image Manipulation
+Sometimes you need to combine several screenshots from your ongoing work to easily ask details from QA or your PM. `convert` [command line tool](https://legacy.imagemagick.org/script/convert.php) can be used to merge several images into one, crop, and resize images.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/22014420/206066590-0c2d4ac7-cf76-42d0-805c-b0beedfd440b.png">
+
+#### Installation:
+```
+brew install imagemagick
+```
+#### Usage:
+* To create a horizontal image:
+```
+convert image_1_name.png image_2_name.png image_n_name.png +append output_name.png
+```
+* To create a vertical image:
+```
+convert image_1_name.png image_2_name.png image_n_name.png -append output_name.png
+```
