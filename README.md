@@ -29,17 +29,45 @@ The example app is from just eat, thanks to them for open source an app that has
 
 <img width="422" alt="screen" src="https://user-images.githubusercontent.com/724536/203151489-34c6c22e-79e1-4d65-8c90-ca113ab74bd2.png">
 
-## Git Hook 🚗
 
-- [Swift Format](https://github.com/phynet/iOS-Tooling/blob/main/post-commit)
+## Git
+
+### Git Worktree
+
+Let's you work in more than a branch at the same time:
+
+**Usage**
+
+`git worktree add ../ios-app-dev dev`
+
+### Git Hook 🚗
+
+- [Swift Format as post commit](https://github.com/phynet/iOS-Tooling/blob/main/post-commit)
+
+let's you run swift Format on staged files after commit, all changes in format will be included in the commit.
+
 - [Name branch hook](https://github.com/phynet/iOS-Tooling/blob/main/name-branch-hook)
+
+Takes the numeric name of the branch and add it into each commit. For example:
+
+    [12345] My feature commit 1 
+    [12345] My feature commit 2
 
 
 ## Simulator 🚀
 
 - [SimGenie](https://simgenie.app/) 
 
-## UI. 🎨
+Remove all permission without the need to delete the application. Gives you several and important functionalities that allows you to work with the simulator:
+
+- Clean derived data
+- Remove all app and SO permission, like push notification
+- Push notification payload setup
+
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/724536/206753456-2ff702ea-5267-4d26-af5b-c2a25ab5e43b.png">
+
+
+## UI 🎨
 
 - [Sherlock](https://sherlock.inspiredcode.io/)
 - [Reveal App](https://revealapp.com/) 
