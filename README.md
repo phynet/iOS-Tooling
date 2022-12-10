@@ -66,6 +66,12 @@ Remove all permission without the need to delete the application. Gives you seve
 
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/724536/206753456-2ff702ea-5267-4d26-af5b-c2a25ab5e43b.png">
 
+- [SimSim](https://github.com/dsmelov/simsim)
+
+Explore application folders while developing for iOS, watchOS or tvOS.
+
+<img src="https://github.com/dsmelov/simsim/raw/master/simsim.png"/>
+
 
 ## UI 🎨
 
