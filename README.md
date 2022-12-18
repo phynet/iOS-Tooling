@@ -23,11 +23,11 @@ The example app is from just eat, thanks to them for open source an app that has
 
 *Setup Keyboard shortcut*
 
-<img width="507" alt="image" src="https://user-images.githubusercontent.com/724536/205639993-afba44bd-8d5e-46a7-a7e0-b62e0630f5d8.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/724536/205639993-afba44bd-8d5e-46a7-a7e0-b62e0630f5d8.png">
 
 *Use shortcut*
 
-<img width="422" alt="screen" src="https://user-images.githubusercontent.com/724536/203151489-34c6c22e-79e1-4d65-8c90-ca113ab74bd2.png">
+<img width="500" alt="screen" src="https://user-images.githubusercontent.com/724536/203151489-34c6c22e-79e1-4d65-8c90-ca113ab74bd2.png">
 
 
 ## Git
@@ -64,13 +64,13 @@ Remove all permission without the need to delete the application. Gives you seve
 - Remove all app and SO permission, like push notification
 - Push notification payload setup
 
-<img width="585" alt="image" src="https://user-images.githubusercontent.com/724536/206753456-2ff702ea-5267-4d26-af5b-c2a25ab5e43b.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/724536/206753456-2ff702ea-5267-4d26-af5b-c2a25ab5e43b.png">
 
 - [SimSim](https://github.com/dsmelov/simsim)
 
 Explore application folders while developing for iOS, watchOS or tvOS.
 
-<img src="https://github.com/dsmelov/simsim/raw/master/simsim.png"/>
+<img width="500" alt="image" src="https://github.com/dsmelov/simsim/raw/master/simsim.png">
 
 ### [Control Room](https://github.com/twostraws/ControlRoom)
 
