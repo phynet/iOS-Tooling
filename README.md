@@ -56,7 +56,7 @@ Takes the numeric name of the branch and add it into each commit. For example:
 
 ## Simulator 🚀
 
-- [SimGenie](https://simgenie.app/) 
+### [SimGenie](https://simgenie.app/) 
 
 Remove all permission without the need to delete the application. Gives you several and important functionalities that allows you to work with the simulator:
 
@@ -66,7 +66,7 @@ Remove all permission without the need to delete the application. Gives you seve
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/724536/206753456-2ff702ea-5267-4d26-af5b-c2a25ab5e43b.png">
 
-- [SimSim](https://github.com/dsmelov/simsim)
+### [SimSim](https://github.com/dsmelov/simsim)
 
 Explore application folders while developing for iOS, watchOS or tvOS.
 
