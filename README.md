@@ -72,6 +72,22 @@ Explore application folders while developing for iOS, watchOS or tvOS.
 
 <img src="https://github.com/dsmelov/simsim/raw/master/simsim.png"/>
 
+### [Control Room](https://github.com/twostraws/ControlRoom)
+
+Control Room is a macOS app that lets you control the simulators for iOS, tvOS, and watchOS – their UI appearance, status bar configuration, and more. It wraps Apple’s own simctl command-line tool, so you’ll need Xcode installed.
+
+- Manipulate System configurations
+
+    <img width="500" alt="imagen" src="https://user-images.githubusercontent.com/22014420/208280417-c0b26406-4dd7-48d1-8102-584faedee2b8.png">
+
+- Manipulate App configurations. In this section, you will find a really useful tool. You could add a push notification payload on the box below, tap `Send Push Notification` and your active simulator is going to receive a push notification 🎉
+
+    <img width="500" alt="imagen" src="https://user-images.githubusercontent.com/22014420/208280738-f69f88fa-f0c1-49f6-a390-87153d6c62f0.png">
+
+- Configure simulator location
+
+    <img width="500" alt="imagen" src="https://user-images.githubusercontent.com/22014420/208280750-265231b1-4627-4148-89f8-3a2795dca7dd.png">
+
 
 ## UI 🎨
 
