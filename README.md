@@ -23,11 +23,11 @@ The example app is from just eat, thanks to them for open source an app that has
 
 *Setup Keyboard shortcut*
 
-<img width="507" alt="image" src="https://user-images.githubusercontent.com/724536/205639993-afba44bd-8d5e-46a7-a7e0-b62e0630f5d8.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/724536/205639993-afba44bd-8d5e-46a7-a7e0-b62e0630f5d8.png">
 
 *Use shortcut*
 
-<img width="422" alt="screen" src="https://user-images.githubusercontent.com/724536/203151489-34c6c22e-79e1-4d65-8c90-ca113ab74bd2.png">
+<img width="500" alt="screen" src="https://user-images.githubusercontent.com/724536/203151489-34c6c22e-79e1-4d65-8c90-ca113ab74bd2.png">
 
 
 ## Git
@@ -56,7 +56,7 @@ Takes the numeric name of the branch and add it into each commit. For example:
 
 ## Simulator 🚀
 
-- [SimGenie](https://simgenie.app/) 
+### [SimGenie](https://simgenie.app/) 
 
 Remove all permission without the need to delete the application. Gives you several and important functionalities that allows you to work with the simulator:
 
@@ -64,13 +64,29 @@ Remove all permission without the need to delete the application. Gives you seve
 - Remove all app and SO permission, like push notification
 - Push notification payload setup
 
-<img width="585" alt="image" src="https://user-images.githubusercontent.com/724536/206753456-2ff702ea-5267-4d26-af5b-c2a25ab5e43b.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/724536/206753456-2ff702ea-5267-4d26-af5b-c2a25ab5e43b.png">
 
-- [SimSim](https://github.com/dsmelov/simsim)
+### [SimSim](https://github.com/dsmelov/simsim)
 
 Explore application folders while developing for iOS, watchOS or tvOS.
 
-<img src="https://github.com/dsmelov/simsim/raw/master/simsim.png"/>
+<img width="500" alt="image" src="https://github.com/dsmelov/simsim/raw/master/simsim.png">
+
+### [Control Room](https://github.com/twostraws/ControlRoom)
+
+Control Room is a macOS app that lets you control the simulators for iOS, tvOS, and watchOS – their UI appearance, status bar configuration, and more. It wraps Apple’s own simctl command-line tool, so you’ll need Xcode installed.
+
+- Manipulate System configurations
+
+    <img width="500" alt="imagen" src="https://user-images.githubusercontent.com/22014420/208280417-c0b26406-4dd7-48d1-8102-584faedee2b8.png">
+
+- Manipulate App configurations. In this section, you will find a really useful tool. You could add a push notification payload on the box below, tap `Send Push Notification` and your active simulator is going to receive a push notification 🎉
+
+    <img width="500" alt="imagen" src="https://user-images.githubusercontent.com/22014420/208280738-f69f88fa-f0c1-49f6-a390-87153d6c62f0.png">
+
+- Configure simulator location
+
+    <img width="500" alt="imagen" src="https://user-images.githubusercontent.com/22014420/208280750-265231b1-4627-4148-89f8-3a2795dca7dd.png">
 
 
 ## UI 🎨
