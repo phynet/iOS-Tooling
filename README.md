@@ -93,6 +93,11 @@ Control Room is a macOS app that lets you control the simulators for iOS, tvOS, 
 
 - [Sherlock](https://sherlock.inspiredcode.io/)
 - [Reveal App](https://revealapp.com/) 
+### [Shottr](https://shottr.cc)
+
+Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
+
+<img width="700" alt="imagen" src="https://user-images.githubusercontent.com/724536/219422748-a50084ca-06a9-4d4a-bea3-5a47970d6b62.png">
 
 ## Shortcuts 🎺
 
@@ -119,3 +124,10 @@ convert image_1_name.png image_2_name.png image_n_name.png +append output_name.p
 ```
 convert image_1_name.png image_2_name.png image_n_name.png -append output_name.png
 ```
+
+### [Raycast](https://www.raycast.com)
+
+Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/724536/219423918-285b34e2-165f-47ac-b25b-201ae36a3d3a.png">
+
