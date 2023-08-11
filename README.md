@@ -16,7 +16,7 @@ You are welcomed to add tools, scripts or any other app that you use and is wort
 
 ## Deeplink and Universal link shortcut  🙌
 
-- [Automator script](https://github.com/phynet/iOS-Tooling/blob/main/open%20in%20simulator.zip)
+- [Automator script](./deeplink-handler/open%20in%20simulator.zip)
 
 The script let's you open a DL or UL using a string text with a keyboard shortcut. Just highligth them as if you were to copy or paste it and use the keyboard shortcut that you setup before.
 The example app is from just eat, thanks to them for open source an app that has deeplinks: 
@@ -42,11 +42,11 @@ Let's you work in more than a branch at the same time:
 
 ### Git Hook 🚗
 
-- [Swift Format as post commit](https://github.com/phynet/iOS-Tooling/blob/main/post-commit)
+- [Swift Format as post commit](./git-hooks/swift-format-hook)
 
 let's you run swift Format on staged files after commit, all changes in format will be included in the commit.
 
-- [Name branch hook](https://github.com/phynet/iOS-Tooling/blob/main/name-branch-hook)
+- [Name branch hook](./git-hooks/swift-format-hook)
 
 Takes the numeric name of the branch and add it into each commit. For example:
 
@@ -56,7 +56,7 @@ Takes the numeric name of the branch and add it into each commit. For example:
 
 ## Simulator 🚀
 
-### [SimGenie](https://simgenie.app/) 
+### [SimGenie](https://simgenie.app/)
 
 Remove all permission without the need to delete the application. Gives you several and important functionalities that allows you to work with the simulator:
 
@@ -101,8 +101,8 @@ Shottr is a small, fast, human-sized screenshot app built for those who care abo
 
 ## Shortcuts 🎺
 
-- [Delete derived data with a default name](https://github.com/phynet/iOS-Tooling/blob/main/shortcuts/Derived_Data_default_project.shortcut) (mine, just remove the name and add your app's name)
-- [Delete derived data completely](https://github.com/phynet/iOS-Tooling/blob/main/shortcuts/Derived_Data_default_project.shortcut)
+- [Delete derived data with a default name](./shortcuts/Derived_Data_default_project.shortcut) (mine, just remove the name and add your app's name)
+- [Delete derived data completely](./shortcuts/derived_data_prompt.shortcut)
 
 ## Command Line Tools 🛠
 
