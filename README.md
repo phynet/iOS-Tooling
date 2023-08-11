@@ -93,6 +93,9 @@ Control Room is a macOS app that lets you control the simulators for iOS, tvOS, 
 
 - [Sherlock](https://sherlock.inspiredcode.io/)
 - [Reveal App](https://revealapp.com/) 
+- [QMUI/LookinServer: Free macOS app for iOS view debugging.](https://github.com/QMUI/LookinServer)
+    - open source view debugger
+
 ### [Shottr](https://shottr.cc)
 
 Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
