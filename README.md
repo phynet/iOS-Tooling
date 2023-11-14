@@ -1,4 +1,4 @@
-# iOS Tooling and Workflows
+# iOS Tools & Workflows
 The purpose of this repo is to share knowledge about the tooling that you usually use while developing iOS applications. Those can vary from scripts, to apps, workflows, to any other form of tool that you find helpful to share with the community.
 
 You are welcomed to add tools, scripts or any other app that you use and is worth to share with the comunity. 🦾
@@ -133,4 +133,11 @@ convert image_1_name.png image_2_name.png image_n_name.png -append output_name.p
 Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/724536/219423918-285b34e2-165f-47ac-b25b-201ae36a3d3a.png">
+
+## Broadcasting iOS device on MacOSX
+
+Ever wondered how to show you iphone device into Mac as it was a presentation? look no further, [Bezel](https://getbezel.app) offers exaclty that!
+
+https://github.com/phynet/iOS-Tooling/assets/724536/519ce746-d606-4afb-851b-e49b15078f39
+
 
